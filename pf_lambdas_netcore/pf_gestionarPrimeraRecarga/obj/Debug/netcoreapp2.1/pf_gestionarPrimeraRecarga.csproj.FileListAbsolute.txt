@@ -1,0 +1,13 @@
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\bin\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.deps.json
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\bin\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.runtimeconfig.json
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\bin\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.runtimeconfig.dev.json
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\bin\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.dll
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\bin\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.pdb
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.csproj.CoreCompileInputs.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.RazorAssemblyInfo.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.RazorAssemblyInfo.cs
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.AssemblyInfoInputs.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.AssemblyInfo.cs
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.RazorTargetAssemblyInfo.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.dll
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_gestionarPrimeraRecarga\obj\Debug\netcoreapp2.1\pf_gestionarPrimeraRecarga.pdb

@@ -1,0 +1,14 @@
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\bin\Release\netcoreapp2.1\pf_consultarPlan.deps.json
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\bin\Release\netcoreapp2.1\pf_consultarPlan.runtimeconfig.json
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\bin\Release\netcoreapp2.1\pf_consultarPlan.runtimeconfig.dev.json
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\bin\Release\netcoreapp2.1\pf_consultarPlan.dll
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\bin\Release\netcoreapp2.1\pf_consultarPlan.pdb
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.csprojAssemblyReference.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.csproj.CoreCompileInputs.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.RazorAssemblyInfo.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.RazorAssemblyInfo.cs
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.AssemblyInfoInputs.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.AssemblyInfo.cs
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.RazorTargetAssemblyInfo.cache
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.dll
+C:\Tecnofactor\portalfactura\repos\sources\pf_lambdas_netcore\pf_consultarPlan\obj\Release\netcoreapp2.1\pf_consultarPlan.pdb
